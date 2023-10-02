@@ -12,14 +12,18 @@ Sharing my experience with Cyber Security certs I've studied and obtained, each 
 * Soon
 
 
+
 ## INE (AKA eLearnSecurity)
 ### eLearnSecurity Junior Pen Tester v2 (eJPTv2)
 * Soon
+
 
 
 ## The International Information System Security Certification Consortium (ISC2)
 ### Certified in Cybersecurity (CC)
 * Soon
 
+
+
 ## Other | اخرى
-### تجربة العمل الافتراضي STC - الاستجابة للحوادث الامنية/السيبرانية
+### تجربة العمل الافتراضي في STC (مسك) - الاستجابة للحوادث الامنية/السيبرانية
